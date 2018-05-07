@@ -14,7 +14,7 @@ It may take awhile depends on your internet speed.
 ```
 $ docker run -it -p 8087:8080 spring-boot-app
 ```
-4. Check The application using CURL or just visit `localhost:8080/` in your browser
+4. Check The application using CURL or just visit `localhost:8087/` in your browser
 ```
 $ curl localhost:8087/
 ```
