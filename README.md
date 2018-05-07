@@ -3,6 +3,7 @@ Welcome to the vodafone-task!
 1. Download Project files
 ```
 $ git clone https://github.com/mareimorsy/vodafone-task.git
+$ cd vodafone-task/
 ```
 2. build the docker image
 ```
